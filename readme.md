@@ -7,7 +7,7 @@ note that the main job this app does is as follows :
 2. load it to DDR memory .
 3. triger the stereo IP core in FPGA side to generate depth image, depending whether you press 'c' or 'g', it shows color or gray depth image respectively
 
-![alt text](https://raw.githubusercontent.com/brianwchh/zynq-stereo-driver-and-app/master/ipblock/ipblock.png)
+![alt text](https://raw.githubusercontent.com/brianwchh/zynq-VDMA-driver-StereoVisionApp/master/ipblock/ipblock.png)
 
 
 ## demo videos : 
