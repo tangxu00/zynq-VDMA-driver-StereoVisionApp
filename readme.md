@@ -1,5 +1,5 @@
 in this repository I share a zynq-vdma driver I used in stereo vision ,and an demo app that utilize this driver . 
-I used to have trouble with this driver,and had spend sometime to figure it out。it might be not a standard way, but it works well in this case.
+I used to have trouble with this driver,and had spend sometime to figure it out。it might not be a standard way, but it works well in this case.
 I hope this can help some FPGA guys . if there is something wrong, pls kindly correct me .
 
 note that the main job this app does is as follows : 
