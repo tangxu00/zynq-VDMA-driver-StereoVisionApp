@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=ESit3O7KgRc
 
 https://www.youtube.com/watch?v=6NAkgadpmGY
 
+QQ group : 150241908
+
 
 ## credit goes to many people who has shared their knowledge . 
 共勉一下：勤学习，多涨薪，追房价（按现阶段的物价，动动指头，先赚他个4-6万/月吧，哈哈^_^，开心就好）。为社区尽一点微薄之力，帮助更多的创客。
